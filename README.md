@@ -11,3 +11,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Test-time regression: a unifying framework for designing sequence models with associative memory](https://arxiv.org/abs/2501.12352)|23 JAN | Sequence Model|
 |[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)| 28 JAN | LLM |
 |[Consistency Models](https://arxiv.org/abs/2303.01469)<br>[SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations](https://arxiv.org/abs/2502.02472)|2 FEB| Diffusion |
+| [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://proceedings.mlr.press/v119/sun20b.html) | 11 FEB | Test-time Training |
