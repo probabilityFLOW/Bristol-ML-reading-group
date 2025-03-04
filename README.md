@@ -12,3 +12,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)| 28 JAN | LLM |
 |[Consistency Models](https://arxiv.org/abs/2303.01469)<br>[SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations](https://arxiv.org/abs/2502.02472)| 6 FEB | Diffusion |
 | [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://proceedings.mlr.press/v119/sun20b.html) | 11 FEB | Test-time Training |
+| [Measure-to-measure interpolation using Transformers](https://arxiv.org/abs/2411.04551) | 4 MAR | Transformer |
