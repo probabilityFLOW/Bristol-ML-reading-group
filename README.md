@@ -13,3 +13,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Consistency Models](https://arxiv.org/abs/2303.01469)<br>[SDE Matching: Scalable and Simulation-Free Training of Latent Stochastic Differential Equations](https://arxiv.org/abs/2502.02472)| 6 FEB | Diffusion |
 | [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://proceedings.mlr.press/v119/sun20b.html) | 11 FEB | Test-time Training |
 | [Measure-to-measure interpolation using Transformers](https://arxiv.org/abs/2411.04551) | 4 MAR | Transformer |
+|[Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/abs/2406.04329)| 13 MAR | Diffusion |
