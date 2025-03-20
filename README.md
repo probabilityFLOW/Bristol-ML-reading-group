@@ -15,3 +15,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | [Measure-to-measure interpolation using Transformers](https://arxiv.org/abs/2411.04551) | 4 MAR | Transformer |
 |[Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/abs/2406.04329)| 13 MAR | Diffusion |
 |[Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms](https://arxiv.org/abs/2503.07154)<br>[Inductive Moment Matching](https://arxiv.org/abs/2503.07565)| 18 MAR | Scaling in Diffusion |
+|[Towards a Mechanistic Explanation of Diffusion Model Generalization](https://arxiv.org/abs/2411.19339)| 20 MAR | Diffusion |
