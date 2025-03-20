@@ -14,3 +14,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | [Test-Time Training with Self-Supervision for Generalization under Distribution Shifts](https://proceedings.mlr.press/v119/sun20b.html) | 11 FEB | Test-time Training |
 | [Measure-to-measure interpolation using Transformers](https://arxiv.org/abs/2411.04551) | 4 MAR | Transformer |
 |[Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/abs/2406.04329)| 13 MAR | Diffusion |
+|[Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms](https://arxiv.org/abs/2503.07154)<br>[Inductive Moment Matching](https://arxiv.org/abs/2503.07565)| 18 MAR | Scaling in Diffusion |
