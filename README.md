@@ -18,3 +18,5 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Towards a Mechanistic Explanation of Diffusion Model Generalization](https://arxiv.org/abs/2411.19339)| 20 MAR | Diffusion |
 |[A Statistical Theory of Contrastive Learning via Approximate Sufficient Statistics](https://arxiv.org/abs/2503.17538)<br>[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)| 25 MAR | Contrastive Learning |
 |[Approximate Bayesian Computation with Deep Learning and Conformal prediction](https://arxiv.org/abs/2406.04874) | 27 MAR | ABC |
+|[NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)| 1 APR | NN |
+|[One Step Diffusion via Shortcut Models](https://arxiv.org/abs/2410.12557)| 3 APR| Diffusion |
