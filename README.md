@@ -21,3 +21,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)| 1 APR | NN |
 |[One Step Diffusion via Shortcut Models](https://arxiv.org/abs/2410.12557)| 3 APR| Diffusion |
 |[Normalization Techniques in Training DNNs: Methodology, Analysis and Application](https://arxiv.org/abs/2009.12836)<br>[Layer Normalization](https://arxiv.org/abs/1607.06450)| 8 APR | LN |
+|[The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2501.10465)| 10 APR | Overview |
