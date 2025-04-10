@@ -20,3 +20,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Approximate Bayesian Computation with Deep Learning and Conformal prediction](https://arxiv.org/abs/2406.04874) | 27 MAR | ABC |
 |[NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)| 1 APR | NN |
 |[One Step Diffusion via Shortcut Models](https://arxiv.org/abs/2410.12557)| 3 APR| Diffusion |
+|[Normalization Techniques in Training DNNs: Methodology, Analysis and Application](https://arxiv.org/abs/2009.12836)<br>[Layer Normalization](https://arxiv.org/abs/1607.06450)| 8 APR | LN |
