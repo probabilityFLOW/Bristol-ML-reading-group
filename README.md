@@ -22,5 +22,6 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[One Step Diffusion via Shortcut Models](https://arxiv.org/abs/2410.12557)| 3 APR| Diffusion |
 |[Normalization Techniques in Training DNNs: Methodology, Analysis and Application](https://arxiv.org/abs/2009.12836)<br>[Layer Normalization](https://arxiv.org/abs/1607.06450)| 8 APR | LN |
 |[The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2501.10465)| 10 APR | Overview |
-|[Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry](https://arxiv.org/abs/2410.03282)| 1 MAR | Sampling |
-|[LEAPS: A discrete neural sampler via locally equivariant networks](https://arxiv.org/abs/2502.10843)| 8 MAR | Sampling |
+|[Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry](https://arxiv.org/abs/2410.03282)| 1 MAY | Sampling |
+|[LEAPS: A discrete neural sampler via locally equivariant networks](https://arxiv.org/abs/2502.10843)| 8 MAY | Sampling |
+| Same as 8 MAY | 13 MAY | Sampling |
