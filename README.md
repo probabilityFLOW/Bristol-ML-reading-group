@@ -25,4 +25,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry](https://arxiv.org/abs/2410.03282)| 1 MAY | Sampling |
 |[LEAPS: A discrete neural sampler via locally equivariant networks](https://arxiv.org/abs/2502.10843)| 8 MAY | Sampling |
 | Same as 8 MAY | 13 MAY | Sampling |
-| [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758) | 20 MAY | NN |
+| [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)<br>[Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/abs/2408.02584)| 20 MAY | NN/LLM |
