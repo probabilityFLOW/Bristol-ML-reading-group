@@ -26,3 +26,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[LEAPS: A discrete neural sampler via locally equivariant networks](https://arxiv.org/abs/2502.10843)| 8 MAY | Sampling |
 | Same as 8 MAY | 13 MAY | Sampling |
 | [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)<br>[Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/abs/2408.02584)| 20 MAY | NN/LLM |
+|[Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training](https://arxiv.org/abs/2505.17638)| 27 MAY | Diffusion |
