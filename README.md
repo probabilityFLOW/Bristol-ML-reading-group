@@ -28,3 +28,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | [Reconstructing Training Data from Trained Neural Networks](https://arxiv.org/abs/2206.07758)<br>[Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization](https://arxiv.org/abs/2408.02584)| 20 MAY | NN/LLM |
 |[Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training](https://arxiv.org/abs/2505.17638)| 27 MAY | Diffusion |
 |[Joint Learning in the Gaussian Single Index Model](https://arxiv.org/abs/2505.21336)| 3 JUN | Representation learning |
+|[Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431)| 5 JUN | Diffusion |
