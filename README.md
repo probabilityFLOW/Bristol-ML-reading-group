@@ -32,3 +32,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[A Generalization Result for Convergence in Learning-to-Optimize](https://arxiv.org/abs/2410.07704)| 10 JUN | Learning theory |
 |[Neural Adaptive Sequential Monte Carlo](https://arxiv.org/abs/1506.03338)<br>[Alternators For Sequence Modeling](https://arxiv.org/abs/2405.11848)| 12 JUN | Sampling |
 |[Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo](https://arxiv.org/abs/2502.12786)| 17 JUN | Diffusion |
+|[On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity](https://www.arxiv.org/abs/2506.03719)| 19 JUN | Flow |
