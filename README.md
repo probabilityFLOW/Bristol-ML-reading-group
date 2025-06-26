@@ -34,3 +34,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Composition and Control with Distilled Energy Diffusion Models and Sequential Monte Carlo](https://arxiv.org/abs/2502.12786)| 17 JUN | Diffusion |
 |[On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity](https://www.arxiv.org/abs/2506.03719)| 19 JUN | Flow |
 |[Temporal Difference Flows](https://arxiv.org/abs/2503.09817)| 24 JUN | FLOW & RL |
+|[Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://arxiv.org/abs/2211.06291)| 26 JUN | NN |
