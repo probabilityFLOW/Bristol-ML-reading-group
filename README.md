@@ -35,3 +35,5 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity](https://www.arxiv.org/abs/2506.03719)| 19 JUN | Flow |
 |[Temporal Difference Flows](https://arxiv.org/abs/2503.09817)| 24 JUN | FLOW & RL |
 |[Do Bayesian Neural Networks Need To Be Fully Stochastic?](https://arxiv.org/abs/2211.06291)| 26 JUN | NN |
+|[Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections](https://arxiv.org/abs/2404.02954)| 1 JUL | GM |
+| same as last | 3 JUL | GM |
