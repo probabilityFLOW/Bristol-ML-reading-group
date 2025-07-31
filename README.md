@@ -38,3 +38,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections](https://arxiv.org/abs/2404.02954)| 1 JUL | GM |
 | same as last | 3 JUL | GM |
 |[Stable generative modeling using Schrödinger bridges](https://arxiv.org/abs/2401.04372)| 29 JUL | GM |
+|[Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/abs/2506.09018)| 31 JUL | Flow |
