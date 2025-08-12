@@ -39,3 +39,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | same as last | 3 JUL | GM |
 |[Stable generative modeling using Schrödinger bridges](https://arxiv.org/abs/2401.04372)| 29 JUL | GM |
 |[Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/abs/2506.09018)| 31 JUL | Flow |
+|[Optimality of empirical measures as quantizers](https://arxiv.org/abs/2508.02615)| 7 AUG | Learning Theory |
