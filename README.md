@@ -41,3 +41,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/abs/2506.09018)| 31 JUL | Flow |
 |[Optimality of empirical measures as quantizers](https://arxiv.org/abs/2508.02615)| 7 AUG | Learning Theory |
 |[Convergence of Deterministic and Stochastic Diffusion-Model Samplers: A Simple Analysis in Wasserstein Distance](https://www.arxiv.org/abs/2508.03210)| 12 AUG | Learning Theory |
+|[Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent](https://arxiv.org/abs/2508.08222)| 19 AUG | Learning Theory |
