@@ -43,3 +43,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Convergence of Deterministic and Stochastic Diffusion-Model Samplers: A Simple Analysis in Wasserstein Distance](https://www.arxiv.org/abs/2508.03210)| 12 AUG | Learning Theory |
 |[Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent](https://arxiv.org/abs/2508.08222)| 19 AUG | Learning Theory |
 |[Position: Transformers Have the Potential to Achieve AGI](https://openreview.net/forum?id=vMTijVnXQ8)| 21 AUG | Theory |
+|[Solving Empirical Bayes via Transformers](https://arxiv.org/abs/2502.09844)| 28 AUG | Bayes |
