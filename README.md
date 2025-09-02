@@ -44,3 +44,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent](https://arxiv.org/abs/2508.08222)| 19 AUG | Learning Theory |
 |[Position: Transformers Have the Potential to Achieve AGI](https://openreview.net/forum?id=vMTijVnXQ8)| 21 AUG | Theory |
 |[Solving Empirical Bayes via Transformers](https://arxiv.org/abs/2502.09844)| 28 AUG | Bayes |
+|[Wild refitting for black box prediction](https://arxiv.org/abs/2506.21460)| 2 SEP | Learning Theory |
