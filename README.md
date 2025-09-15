@@ -45,3 +45,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Position: Transformers Have the Potential to Achieve AGI](https://openreview.net/forum?id=vMTijVnXQ8)| 21 AUG | Theory |
 |[Solving Empirical Bayes via Transformers](https://arxiv.org/abs/2502.09844)| 28 AUG | Bayes |
 |[Wild refitting for black box prediction](https://arxiv.org/abs/2506.21460)| 2 SEP | Learning Theory |
+|[Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)| 11 SEP | Learning Theory |
