@@ -47,3 +47,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Wild refitting for black box prediction](https://arxiv.org/abs/2506.21460)| 2 SEP | Learning Theory |
 |[Speculative Sampling via Exponential Races](https://arxiv.org/abs/2504.15475)| 4 SEP | Sampling |
 |[Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)| 11 SEP | Learning Theory |
+| same as last | 16 SEP | Learning Theory |
