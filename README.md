@@ -48,3 +48,5 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Speculative Sampling via Exponential Races](https://arxiv.org/abs/2504.15475)| 4 SEP | Sampling |
 |[Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)| 11 SEP | Learning Theory |
 | same as last | 16 SEP | Learning Theory |
+|[The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670)| 18 SEP | Learning Theory |
+|[What is the long-run distribution of stochastic gradient descent? A large deviations analysis](https://arxiv.org/abs/2406.09241)|23 SEP | Learning Theory |
