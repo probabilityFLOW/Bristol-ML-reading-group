@@ -51,3 +51,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670)| 18 SEP | Learning Theory |
 |[What is the long-run distribution of stochastic gradient descent? A large deviations analysis](https://arxiv.org/abs/2406.09241)|23 SEP | Learning Theory |
 |[Least squares variational inference](https://arxiv.org/abs/2502.18475)| 25 SEP | Generative Model |
+|[Scaling Laws for Gradient Descent and Sign Descent for Linear Bigram Models under Zipf's Law](https://arxiv.org/abs/2505.19227)| 30 SEP | Learning Theory |
