@@ -50,3 +50,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | same as last | 16 SEP | Learning Theory |
 |[The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670)| 18 SEP | Learning Theory |
 |[What is the long-run distribution of stochastic gradient descent? A large deviations analysis](https://arxiv.org/abs/2406.09241)|23 SEP | Learning Theory |
+|[Least squares variational inference](https://arxiv.org/abs/2502.18475)| 25 SEP | Generative Model |
