@@ -52,4 +52,6 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[What is the long-run distribution of stochastic gradient descent? A large deviations analysis](https://arxiv.org/abs/2406.09241)|23 SEP | Learning Theory |
 |[Least squares variational inference](https://arxiv.org/abs/2502.18475)| 25 SEP | Generative Model |
 |[Scaling Laws for Gradient Descent and Sign Descent for Linear Bigram Models under Zipf's Law](https://arxiv.org/abs/2505.19227)| 30 SEP | Learning Theory |
-|[High-Dimensional Analysis of Single-Layer Attention for Sparse-Token Classification](https://arxiv.org/abs/2509.25153)| 02 OCT| Learning Theory |
+|[High-Dimensional Analysis of Single-Layer Attention for Sparse-Token Classification](https://arxiv.org/abs/2509.25153)| 02 OCT | Learning Theory |
+|[Understanding Optimization in Deep Learning with Central Flows](https://arxiv.org/abs/2410.24206)| 07 OCT | Learning Theory |
+|[Learning threshold neurons via the "edge of stability"](https://arxiv.org/abs/2212.07469)| 09 OCT | Learning Theory |
