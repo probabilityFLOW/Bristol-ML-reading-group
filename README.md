@@ -55,3 +55,5 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[High-Dimensional Analysis of Single-Layer Attention for Sparse-Token Classification](https://arxiv.org/abs/2509.25153)| 02 OCT | Learning Theory |
 |[Understanding Optimization in Deep Learning with Central Flows](https://arxiv.org/abs/2410.24206)| 07 OCT | Learning Theory |
 |[Learning threshold neurons via the "edge of stability"](https://arxiv.org/abs/2212.07469)| 09 OCT | Learning Theory |
+|[Variational Learning Finds Flatter Solutions at the Edge of Stability](https://arxiv.org/abs/2506.12903)| 14 OCT | Learning Theory |
+|[Large Stepsizes Accelerate Gradient Descent for Regularized Logistic Regression](https://arxiv.org/abs/2506.02336)| 16 OCT | Learning Theory |
