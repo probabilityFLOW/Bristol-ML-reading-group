@@ -58,3 +58,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Variational Learning Finds Flatter Solutions at the Edge of Stability](https://arxiv.org/abs/2506.12903)| 14 OCT | Learning Theory |
 |[Large Stepsizes Accelerate Gradient Descent for Regularized Logistic Regression](https://arxiv.org/abs/2506.02336)| 16 OCT | Learning Theory |
 |[Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/abs/1803.00885)| 21 OCT | Learning Theory |
+|[A Geometric Analysis of PCA](https://arxiv.org/abs/2510.20978v1)| 28 OCT | PCA |
