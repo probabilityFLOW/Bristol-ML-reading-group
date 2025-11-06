@@ -59,4 +59,6 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Large Stepsizes Accelerate Gradient Descent for Regularized Logistic Regression](https://arxiv.org/abs/2506.02336)| 16 OCT | Learning Theory |
 |[Essentially No Barriers in Neural Network Energy Landscape](https://arxiv.org/abs/1803.00885)| 21 OCT | Learning Theory |
 |[A Geometric Analysis of PCA](https://arxiv.org/abs/2510.20978v1)| 28 OCT | PCA |
+|[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544)| 30 OCT | Diffusion |
 |[Every Language Model Has a Forgery-Resistant Signature](https://arxiv.org/abs/2510.14086v1)| 4 NOV | LLM |
+|[Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)| 06 NOV | RL |
