@@ -62,3 +62,5 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544)| 30 OCT | Diffusion |
 |[Every Language Model Has a Forgery-Resistant Signature](https://arxiv.org/abs/2510.14086v1)| 4 NOV | LLM |
 |[Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)| 06 NOV | RL |
+| same as last | 11 NOV | RL |
+|[Fast and accurate optimization on the orthogonal manifold without retraction](https://arxiv.org/abs/2102.07432)| 13 NOV | Optimisation |
