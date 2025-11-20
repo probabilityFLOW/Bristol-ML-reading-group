@@ -64,3 +64,4 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)| 06 NOV | RL |
 | same as last | 11 NOV | RL |
 |[Fast and accurate optimization on the orthogonal manifold without retraction](https://arxiv.org/abs/2102.07432)| 13 NOV | Optimisation |
+|[Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions](https://arxiv.org/abs/2511.09465)| 18 NOV | GM |
