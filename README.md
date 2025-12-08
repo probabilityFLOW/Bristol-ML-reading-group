@@ -66,4 +66,9 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Fast and accurate optimization on the orthogonal manifold without retraction](https://arxiv.org/abs/2102.07432)| 13 NOV | Optimisation |
 |[Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions](https://arxiv.org/abs/2511.09465)| 18 NOV | GM |
 |[Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts](https://arxiv.org/abs/2503.02819)| 20 NOV | GM |
+|[Nested learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)| 25 NOV | Learning Theory |
+|[Learn to Guide Your Diffusion Model](https://arxiv.org/abs/2510.00815)| 27 NOV | GM |
+|[Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2510.00815)| 2 DEC | Attention |
+|[Convergence of Deterministic and Stochastic Diffusion-Model Samplers: A Simple Analysis in Wasserstein Distance](https://arxiv.org/abs/2508.03210)| 4 DEC | LT |
+
 
