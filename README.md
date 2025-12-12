@@ -70,5 +70,6 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Learn to Guide Your Diffusion Model](https://arxiv.org/abs/2510.00815)| 27 NOV | GM |
 |[Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/abs/2510.00815)| 2 DEC | Attention |
 |[Convergence of Deterministic and Stochastic Diffusion-Model Samplers: A Simple Analysis in Wasserstein Distance](https://arxiv.org/abs/2508.03210)| 4 DEC | LT |
+|[Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447)| 12 DEC | GM |
 
 
