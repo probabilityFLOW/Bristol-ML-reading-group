@@ -72,5 +72,6 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Convergence of Deterministic and Stochastic Diffusion-Model Samplers: A Simple Analysis in Wasserstein Distance](https://arxiv.org/abs/2508.03210)| 4 DEC | LT |
 |[Mean Flows for One-step Generative Modeling](https://arxiv.org/abs/2505.13447)| 12 DEC | GM |
 |[Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636)| 16 DEC | GM |
+|[Localized Diffusion Models](https://arxiv.org/abs/2505.04417)| 18 DEC | Diffusion |
 
 
