@@ -6,6 +6,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 - [2025](#2025)
 - [2026](#2026)
 
+## Papers
 ### 2025
 
 | Title | Date | Topic |
