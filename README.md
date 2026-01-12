@@ -2,7 +2,11 @@
 
 This website collects papers read in the Bristol Machine Learning Reading Group.
 
-## 2025
+## Years
+- [2025](#2025)
+- [2026](#2026)
+
+### 2025
 
 | Title | Date | Topic |
 |:-------|:------:|:-------:|
@@ -74,11 +78,11 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636)| 16 DEC | GM |
 |[Localized Diffusion Models](https://arxiv.org/abs/2505.04417)| 18 DEC | Diffusion |
 
-## 2026
+### 2026
 
 | Title | Date | Topic |
 |:-------|:------:|:-------:|
-| [Likelihood-Preserving Embeddings for Statistical Inference]([https://arxiv.org/abs/2406.02507](https://arxiv.org/abs/2512.22638)) | 12 JAN | Representation |
+| [Likelihood-Preserving Embeddings for Statistical Inference](https://arxiv.org/abs/2512.22638) | 12 JAN | Representation |
 
 
 
