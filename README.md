@@ -84,6 +84,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | Title | Date | Topic |
 |:-------|:------:|:-------:|
 | [Likelihood-Preserving Embeddings for Statistical Inference](https://arxiv.org/abs/2512.22638) | 12 JAN | Representation |
+|[Score-based sampling without diffusions: Guidance from a simple and modular scheme](https://arxiv.org/abs/2512.24152)| 15 JAN | Theory |
 
 
 
