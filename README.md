@@ -86,6 +86,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 | [Likelihood-Preserving Embeddings for Statistical Inference](https://arxiv.org/abs/2512.22638) | 12 JAN | Representation |
 |[Score-based sampling without diffusions: Guidance from a simple and modular scheme](https://arxiv.org/abs/2512.24152)| 15 JAN | Theory |
 |[Learning the score under shape constraints](https://arxiv.org/abs/2512.14624)| 19 JAN | Theory |
+|[Conditioning diffusion models by explicit forward-backward bridging](https://arxiv.org/abs/2405.13794)<br>[Generative modelling meets Bayesian inference: a new paradigm for inverse problems](https://royalsocietypublishing.org/rsta/article/383/2299/20240334/234777/Generative-modelling-meets-Bayesian-inference-a) | 22 JAN | Diffusion |
 
 
 
