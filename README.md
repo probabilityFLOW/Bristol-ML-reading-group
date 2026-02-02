@@ -87,6 +87,9 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Score-based sampling without diffusions: Guidance from a simple and modular scheme](https://arxiv.org/abs/2512.24152)| 15 JAN | Theory |
 |[Learning the score under shape constraints](https://arxiv.org/abs/2512.14624)| 19 JAN | Theory |
 |[Conditioning diffusion models by explicit forward-backward bridging](https://arxiv.org/abs/2405.13794)<br>[Generative modelling meets Bayesian inference: a new paradigm for inverse problems](https://royalsocietypublishing.org/rsta/article/383/2299/20240334/234777/Generative-modelling-meets-Bayesian-inference-a) | 22 JAN | Diffusion |
+|[Likelihood Ratio Tests by Kernel Gaussian Embedding](https://arxiv.org/abs/2508.07982)| 26 JAN | Kernel |
+|[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403)| 29 JAN | Diffusion |
+|[A coupling-based approach to f-divergences diagnostics for Markov chain Monte Carlo](https://arxiv.org/abs/2510.07559)| 2 FEB | Theory |
 
 
 
