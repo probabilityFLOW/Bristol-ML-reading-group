@@ -90,6 +90,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Likelihood Ratio Tests by Kernel Gaussian Embedding](https://arxiv.org/abs/2508.07982)| 26 JAN | Kernel |
 |[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403)| 29 JAN | Diffusion |
 |[A coupling-based approach to f-divergences diagnostics for Markov chain Monte Carlo](https://arxiv.org/abs/2510.07559)| 2 FEB | Theory |
+|[Rod Flow: A Continuous-Time Model for Gradient Descent at the Edge of Stability](https://arxiv.org/abs/2602.01480)| 5 FEB | Learning Theory |
 
 
 
