@@ -91,6 +91,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Discrete Feynman-Kac Correctors](https://arxiv.org/abs/2601.10403)| 29 JAN | Diffusion |
 |[A coupling-based approach to f-divergences diagnostics for Markov chain Monte Carlo](https://arxiv.org/abs/2510.07559)| 2 FEB | Theory |
 |[Rod Flow: A Continuous-Time Model for Gradient Descent at the Edge of Stability](https://arxiv.org/abs/2602.01480)| 5 FEB | Learning Theory |
+|[High-accuracy sampling for diffusion models and log-concave distributions](https://arxiv.org/abs/2602.01338)| 9 FEB | Diffusion |
 
 
 
