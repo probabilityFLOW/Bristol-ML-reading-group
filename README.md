@@ -93,6 +93,9 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Rod Flow: A Continuous-Time Model for Gradient Descent at the Edge of Stability](https://arxiv.org/abs/2602.01480)| 5 FEB | Learning Theory |
 |[High-accuracy sampling for diffusion models and log-concave distributions](https://arxiv.org/abs/2602.01338)| 9 FEB | Diffusion |
 |[Step-Size Stability in Stochastic Optimization: A Theoretical Perspective](https://arxiv.org/abs/2602.09842)| 12 FEB | Learning Theory |
+|[µpscaling Small Models: Principled Warm Starts and Hyperparameter Transfer](https://arxiv.org/pdf/2602.10545)| 16 FEB | Learning Theory |
+
+
 
 
 
