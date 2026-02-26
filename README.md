@@ -94,6 +94,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[High-accuracy sampling for diffusion models and log-concave distributions](https://arxiv.org/abs/2602.01338)| 9 FEB | Diffusion |
 |[Step-Size Stability in Stochastic Optimization: A Theoretical Perspective](https://arxiv.org/abs/2602.09842)| 12 FEB | Learning Theory |
 |[µpscaling Small Models: Principled Warm Starts and Hyperparameter Transfer](https://arxiv.org/pdf/2602.10545)| 16 FEB | Learning Theory |
+|[Universal priors: solving empirical Bayes via Bayesian inference and pretraining](https://arxiv.org/abs/2602.15136v1)| 23 FEB | Learning Theory |
 
 
 
