@@ -100,6 +100,8 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[A Variational Estimator for Lp Calibration Errors](https://arxiv.org/abs/2602.24230)| 02 MAR | Learning Theory |
 |[Bridge Matching Sampler: Scalable Sampling via Generalized Fixed-Point Diffusion Matching](https://arxiv.org/abs/2603.00530v1)| 05 MAR | Diffusion |
 |[Basic Inequalities for First-Order Optimization with Applications to Statistical Risk Analysis](https://arxiv.org/abs/2512.24999)| 09 MAR | Learning Theory |
+|[Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)| 13 MAR | Learning Theory |
+
 
 
 
