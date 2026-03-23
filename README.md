@@ -102,6 +102,8 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Basic Inequalities for First-Order Optimization with Applications to Statistical Risk Analysis](https://arxiv.org/abs/2512.24999)| 09 MAR | Learning Theory |
 |[Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](https://arxiv.org/abs/2603.07887)| 12 MAR | Learning Theory |
 |[What Functions Does XGBoost Learn?](https://arxiv.org/abs/2601.05444)| 16 MAR | Learning Theory |
+|[Besag-Clifford e-values for unnormalized testing](https://arxiv.org/abs/2603.15845)| 19 MAR | Hypo test |
+|[Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design](https://arxiv.org/abs/2603.12102)| 23 MAR | Grad Flow |
 
 
 
