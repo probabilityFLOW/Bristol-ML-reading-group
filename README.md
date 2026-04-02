@@ -104,7 +104,9 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[What Functions Does XGBoost Learn?](https://arxiv.org/abs/2601.05444)| 16 MAR | Learning Theory |
 |[Besag-Clifford e-values for unnormalized testing](https://arxiv.org/abs/2603.15845)| 19 MAR | Hypo test |
 |[Wasserstein Gradient Flows for Batch Bayesian Optimal Experimental Design](https://arxiv.org/abs/2603.12102)| 23 MAR | Grad Flow |
-
+|[Learning to Reason with Curriculum I: Provable Benefits of Autocurriculum](https://arxiv.org/abs/2603.18325)| 26 MAR | LLM |
+|[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544)| 30 MAR | Diffusion |
+|[Next-Token Prediction and Regret Minimization](https://arxiv.org/abs/2603.28499)| 2 APR | Learning Theory |
 
 
 
