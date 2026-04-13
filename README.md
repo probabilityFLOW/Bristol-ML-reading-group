@@ -107,6 +107,8 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Learning to Reason with Curriculum I: Provable Benefits of Autocurriculum](https://arxiv.org/abs/2603.18325)| 26 MAR | LLM |
 |[Error Bounds and Optimal Schedules for Masked Diffusions with Factorized Approximations](https://arxiv.org/abs/2510.25544)| 30 MAR | Diffusion |
 |[Next-Token Prediction and Regret Minimization](https://arxiv.org/abs/2603.28499)| 2 APR | Learning Theory |
+|[Flow Map Language Models: One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813v2)| 9 APR | LLM |
+|[Sampling from multi-modal distributions on Riemannian manifolds with training-free stochastic interpolants](https://arxiv.org/abs/2602.00641)| 13 APR | Sampling |
 
 
 
