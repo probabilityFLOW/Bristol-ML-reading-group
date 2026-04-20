@@ -110,6 +110,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Flow Map Language Models: One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813v2)| 9 APR | LLM |
 |[Sampling from multi-modal distributions on Riemannian manifolds with training-free stochastic interpolants](https://arxiv.org/abs/2602.00641)| 13 APR | Sampling |
 |[Denoising diffusion probabilistic models are optimally adaptive to unknown low dimensionality](https://arxiv.org/abs/2410.18784)| 16 APR | Diffusion |
+|[One-Shot Generative Flows: Existence and Obstructions](https://arxiv.org/abs/2604.15439)| 20 APR | GM Theory |
 
 
 
