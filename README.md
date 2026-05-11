@@ -111,6 +111,11 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Sampling from multi-modal distributions on Riemannian manifolds with training-free stochastic interpolants](https://arxiv.org/abs/2602.00641)| 13 APR | Sampling |
 |[Denoising diffusion probabilistic models are optimally adaptive to unknown low dimensionality](https://arxiv.org/abs/2410.18784)| 16 APR | Diffusion |
 |[One-Shot Generative Flows: Existence and Obstructions](https://arxiv.org/abs/2604.15439)| 20 APR | GM Theory |
+|[Diffusion Models Encode the Intrinsic Dimension of Data Manifolds](https://proceedings.mlr.press/v235/stanczuk24a.html)| 23 APR | Diffusion |
+|[]()| 27 APR ||
+|[Structured Flow Autoencoders: Learning Structured Probabilistic Representations with Flow Matching](https://openreview.net/forum?id=KYdfvF2SZN)| 30 APR | Flow |
+|[]()| 7 MAY ||
+|[A Rod Flow Model for Adam at the Edge of Stability](https://arxiv.org/abs/2605.06821)| 11 MAY | EOS |
 
 
 
