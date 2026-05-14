@@ -116,7 +116,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Structured Flow Autoencoders: Learning Structured Probabilistic Representations with Flow Matching](https://openreview.net/forum?id=KYdfvF2SZN)| 30 APR | Flow |
 |[]()| 7 MAY ||
 |[A Rod Flow Model for Adam at the Edge of Stability](https://arxiv.org/abs/2605.06821)| 11 MAY | EOS |
-|[A Spectral Framework for Closed-Form Relative Density Estimation](https://arxiv.org/abs/2605.10668) &emsp [slides](https://www.di.ens.fr/~fbach/spectral_closed_form_MLNYC.pdf)| 14 MAY | Density Ratio |
+|[A Spectral Framework for Closed-Form Relative Density Estimation](https://arxiv.org/abs/2605.10668) &emsp; [slides](https://www.di.ens.fr/~fbach/spectral_closed_form_MLNYC.pdf)| 14 MAY | Density Ratio |
 
 
 
