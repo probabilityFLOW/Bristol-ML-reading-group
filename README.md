@@ -120,7 +120,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Explicit integral representations and quantitative bounds for two-layer ReLU networks](https://arxiv.org/abs/2604.23260) &emsp; [Slides](https://awllee.github.io/talks/relu-approx.pdf)| 18 MAY | NN |
 |[Approximating f-Divergences with Rank Statistics](https://arxiv.org/abs/2601.22784)| 20 JULY | Learning |
 |[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](https://arxiv.org/abs/2601.15165)| 23 JULY | dLLM |
-
+|[A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)| 28 JULY | RL |
 
 
 
