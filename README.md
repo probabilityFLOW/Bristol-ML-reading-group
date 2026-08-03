@@ -122,6 +122,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models](https://arxiv.org/abs/2601.15165)| 23 JULY | dLLM |
 |[A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)| 28 JULY | RL |
 |[A Defense of the Quadratic Model](https://arxiv.org/abs/2607.21716)| 30 JULY | Optimisation |
+|[Scaling Limits of Long-Context Transformers](https://arxiv.org/abs/2605.08505)| 3 AUG | Transformer |
 
 
 
