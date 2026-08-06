@@ -123,6 +123,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[A Markov Chain Approach to Preference Alignment](https://arxiv.org/abs/2606.22652)| 28 JULY | RL |
 |[A Defense of the Quadratic Model](https://arxiv.org/abs/2607.21716)| 30 JULY | Optimisation |
 |[Scaling Limits of Long-Context Transformers](https://arxiv.org/abs/2605.08505)| 3 AUG | Transformer |
+|[How to Build a Modern Diffusion Language Model](https://www.youtube.com/watch?v=1fUSw9Jgvog)| 6 AUG | Diffusion |
 
 
 
