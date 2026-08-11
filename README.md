@@ -124,6 +124,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[A Defense of the Quadratic Model](https://arxiv.org/abs/2607.21716)| 30 JULY | Optimisation |
 |[Scaling Limits of Long-Context Transformers](https://arxiv.org/abs/2605.08505)| 3 AUG | Transformer |
 |[How to Build a Modern Diffusion Language Model](https://www.youtube.com/watch?v=1fUSw9Jgvog)| 6 AUG | Diffusion |
+|[A Domain-Specific Harness for End-to-End Automation of Optimization Research](https://arxiv.org/abs/2608.07407)| 10 AUG | LLM/Optimisation |
 
 
 
