@@ -126,6 +126,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[How to Build a Modern Diffusion Language Model](https://www.youtube.com/watch?v=1fUSw9Jgvog)| 6 AUG | Diffusion |
 |[A Domain-Specific Harness for End-to-End Automation of Optimization Research](https://arxiv.org/abs/2608.07407)| 10 AUG | LLM/Optimisation |
 |[Trajectory inference via Acceleration Matching](https://arxiv.org/abs/2608.03916v1)| 13 AUG | Inference |
+|[Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897)| 17 AUG | Distillation |
 
 
 
