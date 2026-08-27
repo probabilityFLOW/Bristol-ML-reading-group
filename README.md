@@ -129,7 +129,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897)| 17 AUG | Distillation |
 |[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)| 20 AUG | NN |
 |[A theory of capacity and sparse neural encoding](https://arxiv.org/abs/2102.10148)| 24 AUG | NN |
-|[Variational Structure at the Edge of Stability](https://arxiv.org/abs/2608.21660)| 27 AUG | Learning Theory |
+|[Variational Structure at the Edge of Stability](https://arxiv.org/abs/2608.21660) <br> [Dynamics in NN](https://francisbach.com/closed-form-dynamics/)| 27 AUG | Learning Theory |
 
 
 
