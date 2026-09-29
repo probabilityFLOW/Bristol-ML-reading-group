@@ -132,6 +132,8 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Variational Structure at the Edge of Stability](https://arxiv.org/abs/2608.21660) <br> [Dynamics in NN](https://francisbach.com/closed-form-dynamics/)| 27 AUG | Learning Theory |
 |[Towards a mathematical theory of superposition](https://arxiv.org/abs/2608.27540)| 3 SEP | NN |
 |[Conditioning Gaussian Processes on Almost Anything](https://arxiv.org/abs/2605.21041)| 7 SEP | GP |
+|[Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems](https://arxiv.org/abs/2603.20589)| 24 SEP | Diffusion |
+|[Simplex Diffusion Models](https://arxiv.org/abs/2609.35553)| 29 SEP | Diffusion |
 
 
 
