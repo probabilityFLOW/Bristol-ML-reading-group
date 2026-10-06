@@ -135,6 +135,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems](https://arxiv.org/abs/2603.20589)| 24 SEP | Diffusion |
 |[Simplex Diffusion Models](https://arxiv.org/abs/2609.35553)| 29 SEP | Diffusion |
 |[Grokking through the Lens of Minimum-Norm Interpolation](https://arxiv.org/abs/2609.38453)| 1 OCT | Theory |
+|[Two-Timescale Fine-tuning Provably Learns New Features for Two-Layer ReLU Networks](https://arxiv.org/abs/2609.34667)| 6 OCT | NN |
 
 
 
