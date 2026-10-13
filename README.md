@@ -136,6 +136,8 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Simplex Diffusion Models](https://arxiv.org/abs/2609.35553)| 29 SEP | Diffusion |
 |[Grokking through the Lens of Minimum-Norm Interpolation](https://arxiv.org/abs/2609.38453)| 1 OCT | Theory |
 |[Two-Timescale Fine-tuning Provably Learns New Features for Two-Layer ReLU Networks](https://arxiv.org/abs/2609.34667)| 6 OCT | NN |
+|[Looped Transformers for Length Generalization](https://arxiv.org/pdf/2409.15647)| 8 OCT | NN |
+|[Some remarks on the connection between generative diffusion and optimal transport](https://arxiv.org/abs/2610.13614v1)| 13 OCT | Diffusion |
 
 
 
