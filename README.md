@@ -140,6 +140,9 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Some remarks on the connection between generative diffusion and optimal transport](https://arxiv.org/abs/2610.13614v1)| 13 OCT | Diffusion |
 |[Statistical Vignettes on the Grokking Phenomenon](https://arxiv.org/abs/2610.18811)| OCT 15 | NN |
 |[Mesoscopic learning dynamics of extensive-width neural networks](https://arxiv.org/abs/2610.23779)| OCT 20 | NN |
+|[The Fundamental Limits of Valid Transport Map Estimation](https://arxiv.org/abs/2606.30574)| OCT 22 | OT |
+|[Steering Diffusion Models to Rare Events with Sequential Monte Carlo](https://arxiv.org/abs/2610.08652)| OCT 29 | Diffusion |
+
 
 
 
