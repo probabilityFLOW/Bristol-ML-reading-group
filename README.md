@@ -142,6 +142,7 @@ This website collects papers read in the Bristol Machine Learning Reading Group.
 |[Mesoscopic learning dynamics of extensive-width neural networks](https://arxiv.org/abs/2610.23779)| OCT 20 | NN |
 |[The Fundamental Limits of Valid Transport Map Estimation](https://arxiv.org/abs/2606.30574)| OCT 22 | OT |
 |[Steering Diffusion Models to Rare Events with Sequential Monte Carlo](https://arxiv.org/abs/2610.08652)| OCT 29 | Diffusion |
+|[LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)<br>[LLMs are not superhuman at reading and writing neural network weights](https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)| NOV 3 | LLM |
 
 
 
